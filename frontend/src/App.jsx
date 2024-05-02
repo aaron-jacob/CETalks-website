@@ -9,7 +9,6 @@ import OurTeam from './pages/OurTeam';
 import Spotlight from './pages/Spotlight';
 import Contact from './pages/Contact';
 import Events from './pages/Events';
-import Loader from './components/Loader'
 const App = () => {
 
 
